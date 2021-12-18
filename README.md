@@ -13,6 +13,7 @@ First add a default.json file inside the config dir with the code :
 }
 ```
 
+Then open a command prompt and use the following commands
 
 ```
 # Install dependencies
